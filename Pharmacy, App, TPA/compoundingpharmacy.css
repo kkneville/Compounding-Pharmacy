@@ -1,0 +1,184 @@
+body {
+
+}
+
+#wrapper {
+  width: 1230px;
+}
+
+header {
+  margin-left: 100px;
+}
+
+h1 {
+  color: #074a7e;
+  font-family: sans-serif;
+  font-size: 26px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.bold {
+  font-size: 36px;
+}
+
+#contact {
+  display: inline-block;
+  width: 180px;
+  float: right;
+  margin-top: -100px;
+}
+
+#phone_number {
+  display: inline-block:
+}
+
+#phone_number img {
+  width: 15px;
+}
+
+
+.navbar {
+  background-color: #a1e2e2;
+  padding: 20px 20px;
+  margin: 0px 100px;
+  width: 990px;
+}
+
+.navbar button {
+  background-color: #a1e2e2;
+  padding: 10px;
+  width: 130px;
+  border-style: none;
+  border-right: solid;
+  border-width: 1px;
+  border-color: #074a7e;
+  color: #074a7e;
+}
+
+.navbar button:hover {
+  font-weight: bold;
+}
+
+.navbar textarea {
+  margin-left: 150px;
+  vertical-align: bottom;
+}
+
+#scroll_banner {
+  width: 1030px;
+}
+
+#scroll_banner img {
+  margin-left: 100px;
+  width: 1030px;
+}
+
+#overlap {
+  background-color: green;
+  opacity: 0.5;
+  width: 400px;
+  display: inline-block;
+  height: 685px;
+  float: right;
+  margin-top: -690px;
+  margin-right: -100px;
+}
+
+#third_layer {
+  background-color: none;
+  display: inline-block;
+  margin-left: 800px;
+  margin-top: -1000px;
+}
+
+#third_layer h2, p, button {
+  opacity: 1;
+}
+
+#scroll_bg {
+  margin-top: 0px;
+}
+
+/*.sidebar {
+  background-image: url("./pharmacist2.jpg")
+  width: 400px;
+  height: 200px;
+}*/
+
+.main1 {
+  margin-top: 20px;
+  margin-left: 100px;
+  color: #074a7e;
+}
+
+.main1 div {
+  display: inline-block;
+  width: 625px;
+  vertical-align: top;
+}
+
+.main1 img {
+  width: 400px;
+}
+
+.main1 button, .article button {
+  background-color: #a1e2e2;
+  padding: 15px 20px;
+  border-style: none;
+  color: white;
+
+}
+
+.main1 button:hover, .article button:hover {
+  background-color: #51b6be;
+}
+
+.main2 {
+  margin-left: 100px;
+}
+
+.main2 h2 {
+  color: white;
+}
+
+.main2_box {
+  width: 305px;
+  display: inline-block;
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  height: 300px;
+  vertical-align: top;
+}
+
+.main2_box1 {
+  background-color: #51b6be;
+}
+
+.main2_box2 {
+  background-color: #074a7e;
+  margin-left: 25px;
+}
+
+.main2_box3 {
+  background-color: #51b6be;
+  margin-left: 25px;
+}
+
+.main2 img {
+  width: 100px;
+}
+
+.main2 p {
+  text-align: left;
+  color: white;
+}
+
+.article {
+  width: 460px;
+  display: inline-block;
+  color: #074a7e;
+  vertical-align: top;
+  margin-left: 100px;
+}
